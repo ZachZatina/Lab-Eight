@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class LabEight {
 	
 	public static void main(String[] args) {
-		// Variable Loop
+		// Variable List
 		Scanner scnr = new Scanner(System.in);
 		int[][] batterInfo;
 		int numBatters;
